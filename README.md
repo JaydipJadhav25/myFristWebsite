@@ -11,10 +11,16 @@ AWS Lambda is an event-driven, serverless Function as a Service provided by Amaz
 index.mjs
 
 export const handler = async (event) => {
+
   // TODO implement
   const response = {
+  
     statusCode: 200,
+    
     body: JSON.stringify('Hello from myFuction || jaydip dhananjay jadhav || serverless'),
+    
   };
+  
   return response;
+  
 };
