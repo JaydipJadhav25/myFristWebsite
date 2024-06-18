@@ -1,4 +1,4 @@
-# myFristWebsite
+# my-First-Website
 link : https://5aywg33x1d.execute-api.ap-south-1.amazonaws.com/default/myFunction
 
 Deploying on a serverless environment involves uploading your code to a cloud platform that automatically scales up and down based on demand. This eliminates the need for managing servers, allowing you to focus on developing and delivering your application. Common serverless deployment options include AWS Lambda, Azure Functions, and Google Cloud Functions.
